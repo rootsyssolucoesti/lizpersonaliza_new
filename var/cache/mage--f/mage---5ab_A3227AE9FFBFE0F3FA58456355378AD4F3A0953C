@@ -1,0 +1,57 @@
+<div class="widget widget-new-products">
+    <div class="widget-title">
+        <h2>Novos Produtos</h2>
+    </div>
+    <div class="widget-products">
+                                <ul class="products-grid products-grid--max-5-col-widget">
+                            <li class="item last">
+                                                            <a href="http://localhost/lizpersonaliza_new/blusa-masculina-2.html?___SID=U" title="Blusa Masculina 2" class="product-image">
+                        <img src="http://localhost/lizpersonaliza_new/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/2/12519284_852880724823266_714213700_n.jpg" alt="Blusa Masculina 2" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/lizpersonaliza_new/blusa-masculina-2.html?___SID=U" title="Blusa Masculina 2)">Blusa Masculina 2</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-2-widget-new-grid">
+                                            <span class="price">R$10,00</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://localhost/lizpersonaliza_new/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9saXpwZXJzb25hbGl6YV9uZXcv/product/2/form_key/7U4HpHDTZkCLw337/?___SID=U')"><span><span>Comprar</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/lizpersonaliza_new/wishlist/index/add/product/2/form_key/7U4HpHDTZkCLw337/?___SID=U" class="link-wishlist">Adicionar aos Favoritos</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/lizpersonaliza_new/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xvY2FsaG9zdC9saXpwZXJzb25hbGl6YV9uZXcv/form_key/7U4HpHDTZkCLw337/?___SID=U" class="link-compare">Comparar Produto</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://localhost/lizpersonaliza_new/blusa-masculina.html?___SID=U" title="Blusa Masculina" class="product-image">
+                        <img src="http://localhost/lizpersonaliza_new/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/2/12568888_1532948567034781_1731234330_n.jpg" alt="Blusa Masculina" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/lizpersonaliza_new/blusa-masculina.html?___SID=U" title="Blusa Masculina)">Blusa Masculina</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1-widget-new-grid">
+                                            <span class="price">R$10,00</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Comprar" class="button btn-cart" onclick="setLocation('http://localhost/lizpersonaliza_new/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9saXpwZXJzb25hbGl6YV9uZXcv/product/1/form_key/7U4HpHDTZkCLw337/?___SID=U')"><span><span>Comprar</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/lizpersonaliza_new/wishlist/index/add/product/1/form_key/7U4HpHDTZkCLw337/?___SID=U" class="link-wishlist">Adicionar aos Favoritos</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/lizpersonaliza_new/catalog/product_compare/add/product/1/uenc/aHR0cDovL2xvY2FsaG9zdC9saXpwZXJzb25hbGl6YV9uZXcv/form_key/7U4HpHDTZkCLw337/?___SID=U" class="link-compare">Comparar Produto</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+</div>
